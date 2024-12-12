@@ -1,2 +1,2 @@
-# AURANGABAD.github.io
+# Business cases.github.io
 
